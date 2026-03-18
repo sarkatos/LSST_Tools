@@ -32,5 +32,5 @@ Para usar a ferramenta de Footprint:
 Este é um repositório em crescimento. Sinta-se à vontade para abrir *Issues* relatando problemas ou enviar *Pull Requests* com novas ferramentas, scripts de visualização de curvas de luz ou métodos de consulta de banco de dados (TAP/ADQL) que possam ser úteis para a comunidade do LSST.
 
 ---
-**Autor:** Vítor (e colaboradores)  
+**Autor:** Vítor Güez
 **Licença:** MIT (Livre para uso, modificação e distribuição acadêmica)
