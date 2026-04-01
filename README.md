@@ -21,6 +21,7 @@ Bibliotecas base utilizadas:
 * `numpy`, `pandas`, `matplotlib`
 * `astropy` (para manipulação de coordenadas e cosmologia)
 * `healpy` (para projeções e mapas no formato HEALPix)
+* `rubin_sim` (Nativa da RSP)
 
 Para usar a ferramenta de Footprint:
 1. Clone este repositório ou baixe o notebook desejado.
